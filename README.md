@@ -1,2 +1,2 @@
 # Java9Feature
-Explore java 9 features
+Explore java 9 features with intellij
